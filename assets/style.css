@@ -1,0 +1,35 @@
+h5, a, h1 {
+    font-family: 'Bree Serif', serif;
+}
+
+
+body {
+    background-color: #ffffff;
+    background-image: url("whirlpool.png");
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.container {
+    padding: 20px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #29444d;
+    color:lightgrey;
+    text-align: center;
+}
+
+#contact-background {
+    background-color: white;
+    width: 800px;
+}
+
+#portfolio-size {
+    width: 60%;
+}
+
