@@ -33,3 +33,7 @@ body {
     width: 60%;
 }
 
+.d-block {
+    object-fit: contain;
+    height: 470px;
+}
